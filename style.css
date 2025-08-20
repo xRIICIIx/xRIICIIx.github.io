@@ -60,6 +60,6 @@ footer {
   text-align: center;
   padding: 1rem 0;
   position: absolute;
-  bottom: 0;
+  top: 1500px;
   width: 100%;
 }

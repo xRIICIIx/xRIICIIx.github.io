@@ -10,4 +10,6 @@ module.exports = {
 
     "declaration-block-no-duplicate-properties": true, 
 
-    "no-empty-source": true 
+    "no-empty-source": true
+  }
+};
